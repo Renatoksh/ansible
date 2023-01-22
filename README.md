@@ -1,2 +1,1 @@
-# ansible
-# factory-config
+# ansible-factory-config
